@@ -1,1 +1,1 @@
-# Data-Science-Encryptix-Projects
+# Data-Science-titanic-survival-prediction-Encryptix-Projects
